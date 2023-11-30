@@ -1,0 +1,163 @@
+<html>
+<head>
+    <title>My Online Resume</title>
+    <link rel="stylesheet" href="resume.css">
+</head>
+<body>
+    <div class="main">
+        <div class="left-section">
+            <h1 class="name"><strong>Khushi<br>Verma</strong></h1>
+            <p class="dp">IT STUDENT</p>
+            <div class="pfp">
+                <img src="pfpResume.jpg">
+                <br><br><br>
+                <h2><b>About Me</b></h2>
+                <p class="about">
+                    An M.Tech (IT) student at IIPS (DAVV) with an interest in web development. I am passionate about creating innovative and user-friendly websites and I'm committed to staying up to date on the latest technologies and trends in the web development world. I have a strong technical background, with knowledge of HTML, CSS, SQL and other programming languages, as well as experience in creating databases and utilizing software such as Adobe Photoshop. 
+                    As a keen learner, I possess a deep curiosity and a genuine passion for acquiring new knowledge and skills. I am confident that my skills and abilities will be a great asset to any organization
+                </p>
+            </div>
+            <br>
+
+            <p class="ph">
+                <img src="phone-regular-36.png"> +91 9131440746
+            </p>
+            <p class="glb">
+                <img src="globe-regular-36.png"> v11.11khushi@gmail.com
+            </p>
+            <p class="loc">
+                <img src="map-solid-36.png"> Mhow, Indore
+            </p>
+            <br><br>
+
+            <h2><b><u>Languages</u></b></h2>
+            <br>
+            <p class="l_p">
+                <b>HTML</b>
+                <span class="circle1"></span>
+                <span class="circle2"></span>
+                <span class="circle3"></span>
+                <span class="circle4"></span>
+                <span class="circle5" style="background: transparent; border: 1px solid white;"></span>
+            </p>
+            <p class="l_p">
+                <b>CSS</b>
+                <span class="circle1"></span>
+                <span class="circle2"></span>
+                <span class="circle3"></span>
+                <span class="circle4" style="background: transparent; border: 1px solid white;"></span>
+                <span class="circle5" style="background: transparent; border: 1px solid white;"></span>
+            </p>
+            <p class="l_p">
+                <b>JS</b>
+                <span class="circle1"></span>
+                <span class="circle2"></span>
+                <span class="circle3" style="background: transparent; border: 1px solid white;"></span>
+                <span class="circle4" style="background: transparent; border: 1px solid white;"></span>
+                <span class="circle5" style="background: transparent; border: 1px solid white;"></span>
+            </p>
+            <p class="l_p">
+                <b>SQL</b>
+                <span class="circle1"></span>
+                <span class="circle2"></span>
+                <span class="circle3"></span>
+                <span class="circle4"></span>
+                <span class="circle5" style="background: transparent; border: 1px solid white;"></span>
+            </p>
+            <p class="l_p">
+                <b>C/C++</b>
+                <span class="circle1"></span>
+                <span class="circle2"></span>
+                <span class="circle3"></span>
+                <span class="circle4"></span>
+                <span class="circle5" style="background: transparent; border: 1px solid white;"></span>
+            </p>
+            <p class="l_p">
+                <b>Python</b>
+                <span class="circle1"></span>
+                <span class="circle2"></span>
+                <span class="circle3"></span>
+                <span class="circle4" style="background: transparent; border: 1px solid white;"></span>
+                <span class="circle5" style="background: transparent; border: 1px solid white;"></span>
+            </p>
+
+        </div>
+        <div class="right-section">
+            <div class="content">
+                <h3>Academic Qualifications</h3>
+                <div class="content-inner">
+                    <br>
+                    <h4><u>2021-to date : B.Tech + M.Tech (IT)</u> 
+                        <br>at International Institute of Professional Studies, DAVV
+                    </h4>
+                    <br><br>
+                    <h4><u>2020-2021 : Higher Secondary School Education</u>
+                        <br>Colonel's Academy School, Mhow with an aggregate of 81%
+                    </h4>
+                    <br><br>
+                    <h4><u>2018-2019 : Secondary School Education</u>
+                        <br>at Colonel's Academy School, Mhow with an aggregate of 90.2%
+                    </h4>
+                    <br><br>
+                </div>
+                <br>
+
+                <h3>Work Experience</h3>
+                <div class="content-inner">
+                    <h4>Fresher</h4>
+                    <p class="para">Although I may lack professional experience, I have actively participated in various extra-curricular activities that have enhanced my leadership, teamwork, and problem solving skills.
+                    I am eager to apply my knowledge and learn from experienced proffesionals.
+                    I am a fast learner, highly motivated, and enthusiastic about contributing to a dynamic and innovative team.
+                    </p>
+                </div>
+                <br>
+
+                <h3>Hobbies</h3>  
+                <div class="content-inner">
+                    <br>
+                    <div class="h_box">
+                        <img src="palette-regular-60.png">
+                        <p>Sketching</p>
+                    </div>
+                    <!--<div class="h_box">
+                        
+                        <p>Classical Dance</p>
+                    </div>-->
+                    <div class="h_box">
+                        <img src="music-regular-60.png">
+                        <p>Listening to music</p>
+                    </div>
+                </div>  
+                <br><br><br><br><br><br>
+
+                <h3>Social</h3>
+                <div class="content-inner">
+                    <br>
+                    <a href="https://github.com/khushi11-11">
+                    <div class="h_box">
+                        <img src="github-logo-60.png">
+                        <p>GitHub Profile</p>
+                    </div>
+                    </a>
+                    
+                    <a href="https://www.linkedin.com/in/khushi-verma-096a66244">
+                    <div class="h_box">
+                        <img src="linkedin-square-logo-60.png">
+                        <p>LinkedIn Profile</p>
+                    </div>
+                    </a>
+                    
+                    <a href="https://instagram.com/khushie11.11?utm_source=qr&igshid=OGU0MmVlOWVjOQ%3D%3D">
+                    <div class="h_box">
+                        <img src="instagram-logo-60.png">
+                        <p>Instagram Profile</p>
+                    </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <br>
+    </div>
+</body>
+</html>
